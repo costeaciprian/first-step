@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 #define SIZE 1000
-#define LIMIT 499
+#define LIMIT 199
 
 int main() {
 
